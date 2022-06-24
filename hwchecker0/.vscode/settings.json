@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "json-simple-1.1.jar",
+        "/Users/claire/Desktop/json-simple-1.1.jar",
+        "/Users/claire/Desktop/hwchecker/jackson-annotations-2.13.3.jar",
+        "/Users/claire/Desktop/hwchecker/jackson-core-2.13.3.jar",
+        "/Users/claire/Desktop/hwchecker/jackson-databind-2.13.3.jar",
+        "cis110.jar",
+        "jackson-annotations-2.13.3.jar",
+        "jackson-core-2.13.3.jar",
+        "jackson-databind-2.13.3.jar"
+    ]
+}
