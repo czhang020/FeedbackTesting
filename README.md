@@ -1,7 +1,9 @@
 # FeedbackTesting
 Important files:
 hwchecker.sh : shell script to move snapshots into folder with feedback tool
+
 HWChecker.java : runs snapshot, captures error, writes to JSON
+
 Snapshots.json : json file with student id, snapshot info, and error msg
 
 Instructions:
